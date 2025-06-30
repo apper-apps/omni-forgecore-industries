@@ -1,0 +1,151 @@
+{
+  "capabilities": [
+    {
+      "Id": 1,
+      "name": "CNC Machining",
+      "description": "High-precision computer-controlled machining for complex geometries and tight tolerances.",
+      "equipment": [
+        "5-axis Machining Centers",
+        "3-axis CNC Mills",
+        "CNC Lathes",
+        "Swiss Turning Centers"
+      ],
+      "materials": [
+        "Aluminum Alloys",
+        "Stainless Steel",
+        "Carbon Steel",
+        "Titanium",
+        "Brass",
+        "Engineering Plastics"
+      ],
+      "maxCapacity": {
+        "workpiece": "1200x800x600mm",
+        "weight": "500kg",
+        "tolerance": "±0.005mm"
+      },
+      "icon": "Cpu"
+    },
+    {
+      "Id": 2,
+      "name": "Sheet Metal Fabrication",
+      "description": "Complete sheet metal solutions from cutting to finishing with precision forming capabilities.",
+      "equipment": [
+        "Fiber Laser Cutting",
+        "Plasma Cutting",
+        "Press Brakes",
+        "Punching Machines",
+        "Welding Stations"
+      ],
+      "materials": [
+        "Mild Steel",
+        "Stainless Steel",
+        "Aluminum",
+        "Copper",
+        "Galvanized Steel"
+      ],
+      "maxCapacity": {
+        "thickness": "25mm Steel",
+        "sheetSize": "3000x1500mm",
+        "bendLength": "3000mm"
+      },
+      "icon": "Layers"
+    },
+    {
+      "Id": 3,
+      "name": "Surface Treatment",
+      "description": "Comprehensive surface finishing services to enhance durability and appearance.",
+      "equipment": [
+        "Anodizing Line",
+        "Powder Coating Booth",
+        "Electroplating Tanks",
+        "Sandblasting Equipment"
+      ],
+      "materials": [
+        "Aluminum",
+        "Steel",
+        "Stainless Steel",
+        "Brass",
+        "Zinc Alloys"
+      ],
+      "maxCapacity": {
+        "partSize": "1000x600x400mm",
+        "batchSize": "100kg",
+        "coatingThickness": "0.001-0.1mm"
+      },
+      "icon": "Paintbrush"
+    },
+    {
+      "Id": 4,
+      "name": "Quality Inspection",
+      "description": "Advanced metrology and inspection services ensuring product quality and compliance.",
+      "equipment": [
+        "CMM Machines",
+        "Optical Comparators",
+        "Surface Roughness Testers",
+        "Hardness Testers",
+        "3D Scanners"
+      ],
+      "materials": [
+        "All Metals",
+        "Plastics",
+        "Ceramics",
+        "Composites"
+      ],
+      "maxCapacity": {
+        "accuracy": "±0.001mm",
+        "partSize": "1000x800x600mm",
+        "temperature": "20°C ±1°C"
+      },
+      "icon": "Search"
+    },
+    {
+      "Id": 5,
+      "name": "Assembly Services",
+      "description": "Complete product assembly with integrated testing and quality control processes.",
+      "equipment": [
+        "Assembly Workstations",
+        "Torque Testing",
+        "Functional Testing",
+        "Leak Testing",
+        "Packaging Equipment"
+      ],
+      "materials": [
+        "Mechanical Components",
+        "Electronic Parts",
+        "Fasteners",
+        "Gaskets and Seals"
+      ],
+      "maxCapacity": {
+        "complexity": "Multi-component",
+        "volume": "1000 units/day",
+        "testing": "100% Inspection"
+      },
+      "icon": "Settings"
+    },
+    {
+      "Id": 6,
+      "name": "Welding & Joining",
+      "description": "Expert welding services for structural and precision applications with certified processes.",
+      "equipment": [
+        "TIG Welding",
+        "MIG Welding",
+        "Spot Welding",
+        "Brazing Furnaces",
+        "Ultrasonic Welding"
+      ],
+      "materials": [
+        "Steel Alloys",
+        "Stainless Steel",
+        "Aluminum",
+        "Titanium",
+        "Inconel"
+      ],
+      "maxCapacity": {
+        "thickness": "50mm",
+        "jointLength": "3000mm",
+        "certification": "AWS D1.1"
+      },
+      "icon": "Zap"
+    }
+  ]
+}

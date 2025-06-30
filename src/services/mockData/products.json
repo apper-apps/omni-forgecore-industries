@@ -1,0 +1,148 @@
+{
+  "products": [
+    {
+      "Id": 1,
+      "name": "Precision Shaft Assembly",
+      "category": "Automotive",
+      "description": "High-precision machined shaft assembly designed for automotive transmission systems. Features tight tolerances and superior surface finish for optimal performance.",
+      "specifications": {
+        "length": "150mm",
+        "diameter": "25mm ±0.005",
+        "material": "4140 Steel",
+        "hardness": "HRC 58-62",
+        "surfaceFinish": "Ra 0.8 μm"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1587293852726-70cdb56c2866?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      ],
+      "materials": ["4140 Steel", "Stainless Steel", "Aluminum"],
+      "applications": [
+        "Automotive transmission systems",
+        "Heavy machinery drives",
+        "Industrial gearboxes",
+        "Marine propulsion systems"
+      ]
+    },
+    {
+      "Id": 2,
+      "name": "Aerospace Bracket",
+      "category": "Aerospace",
+      "description": "Lightweight titanium bracket engineered for aerospace applications. Meets strict aerospace quality standards with full traceability documentation.",
+      "specifications": {
+        "weight": "245g",
+        "dimensions": "120x80x15mm",
+        "material": "Ti-6Al-4V",
+        "tolerance": "±0.1mm",
+        "certification": "AS9100D"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1565793298595-6a879b1d9492?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      ],
+      "materials": ["Titanium", "Aluminum", "Stainless Steel"],
+      "applications": [
+        "Aircraft structural components",
+        "Satellite systems",
+        "Drone frames",
+        "Space vehicle components"
+      ]
+    },
+    {
+      "Id": 3,
+      "name": "Electronic Housing",
+      "category": "Electronics",
+      "description": "Custom aluminum housing for electronic components with integrated heat dissipation features. Anodized finish for corrosion resistance.",
+      "specifications": {
+        "dimensions": "200x150x50mm",
+        "material": "6061-T6 Aluminum",
+        "finish": "Type II Anodizing",
+        "thermalConductivity": "167 W/m·K",
+        "ipRating": "IP65"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1518717758536-85ae29035b6d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1587293852726-70cdb56c2866?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      ],
+      "materials": ["Aluminum", "Stainless Steel", "Plastic"],
+      "applications": [
+        "Power electronics enclosures",
+        "Control system housings",
+        "Sensor protection",
+        "Communication equipment"
+      ]
+    },
+    {
+      "Id": 4,
+      "name": "Medical Device Component",
+      "category": "Medical",
+      "description": "Biocompatible stainless steel component for medical devices. Manufactured under ISO 13485 quality standards with full lot traceability.",
+      "specifications": {
+        "material": "316L Stainless Steel",
+        "surfaceFinish": "Electropolished",
+        "biocompatibility": "ISO 10993",
+        "sterilization": "Autoclave Compatible",
+        "tolerance": "±0.05mm"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1576091160399-112ba8d25d1f?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      ],
+      "materials": ["316L Stainless Steel", "Titanium", "PEEK"],
+      "applications": [
+        "Surgical instruments",
+        "Implantable devices",
+        "Diagnostic equipment",
+        "Laboratory instruments"
+      ]
+    },
+    {
+      "Id": 5,
+      "name": "Industrial Valve Body",
+      "category": "Industrial",
+      "description": "Heavy-duty valve body machined from carbon steel for industrial fluid control applications. Designed for high pressure and temperature environments.",
+      "specifications": {
+        "pressure": "3000 PSI",
+        "temperature": "-20°C to 400°C",
+        "material": "A105 Carbon Steel",
+        "connections": "NPT Threaded",
+        "testing": "Hydrostatic Tested"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1565793298595-6a879b1d9492?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      ],
+      "materials": ["Carbon Steel", "Stainless Steel", "Brass"],
+      "applications": [
+        "Oil and gas systems",
+        "Chemical processing",
+        "Power generation",
+        "Water treatment"
+      ]
+    },
+    {
+      "Id": 6,
+      "name": "Precision Bearing Race",
+      "category": "Automotive",
+      "description": "Ultra-precision bearing race manufactured to ABEC-7 standards. Ground and lapped surfaces ensure smooth operation and extended service life.",
+      "specifications": {
+        "innerDiameter": "50mm ±0.002",
+        "outerDiameter": "80mm ±0.002",
+        "width": "16mm ±0.005",
+        "material": "52100 Bearing Steel",
+        "hardness": "HRC 60-65"
+      },
+      "images": [
+        "https://images.unsplash.com/photo-1587293852726-70cdb56c2866?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80",
+        "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+      ],
+      "materials": ["52100 Steel", "Stainless Steel", "Ceramic"],
+      "applications": [
+        "High-speed spindles",
+        "Precision machinery",
+        "Automotive transmissions",
+        "Aerospace bearings"
+      ]
+    }
+  ]
+}
